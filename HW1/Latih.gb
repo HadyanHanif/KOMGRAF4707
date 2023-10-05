@@ -1,0 +1,7 @@
+glBegin(GL_QUADS)
+    glColor3f(1,0,0)
+    glVertex3f(1,1,-3)
+    glVertex3f(1,-1,-3)
+    glVertex3f(-1,-1,-3)
+    glVertex3f(-1,1,-3)
+glEnd()
